@@ -5,6 +5,9 @@ This repository contains a simple Flutter app that demonstrates how to write wid
 To get started with this app, clone the repository and run flutter run in the project directory.
 The app includes widget tests that test the behavior of the counter. To run the tests, use the flutter test command in the project directory.
 
+# Unit tests
+The unit tests are located in the test directory. They test the behavior of the LoginViewModel class
+
 # Widget tests
 The widget tests are located in the test directory. They test the behavior of the counter widget by simulating user interactions and verifying that the counter value is updated correctly. The tests also verify that the reset button sets the counter back to zero.
 
